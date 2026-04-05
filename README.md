@@ -21,7 +21,7 @@ This project implies WEKA (Waikato Environment for Knowledge Analysis) which is 
 4. How does the number of rules change when the values of support and confidence increase?
 5. Interpret obtained results
 
-**Feature Selection and Attribute Ranking**
+**D. Feature Selection and Attribute Ranking**
 1. Prepare your selected data set in ARFF format (if possible, use the data sets from the Previous laboratory).
 2. Generate two rankings using two different ranking methods. Describe in detail what parameters were used to generate the rankings: Justify why the selected parameters were used.
 3. Compare the effectiveness of classification models (e.g., decision trees) using the full set of features and the reduced set based on the ranking. Perform this comparison for both generated rankings.
